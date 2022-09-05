@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/JohnLombard/MS%20Tutorials/_apis/build/status/johnklombard.pipelines-java?branchName=main)](https://dev.azure.com/JohnLombard/MS%20Tutorials/_build/latest?definitionId=2&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
